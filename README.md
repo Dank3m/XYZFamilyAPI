@@ -54,11 +54,11 @@ After Installing Start the Apache Server and MySQL
 ![alt text](Xampp.png "Xampp")
 
 ### Open Project Using Visual Studio 2022
-![alt text](VisualStudio.png "VisualStudio")
+![alt text](VisualStudio.PNG "VisualStudio")
 
 After the project opens, open up a terminal and run the following commands:
 
-![alt text](Terminal.png "Terminal")
+![alt text](Terminal.PNG "Terminal")
 
 ```js
 dotnet tool install --global dotnet-ef
@@ -73,17 +73,17 @@ Download Link: https://dev.mysql.com/downloads/workbench/
 
 Once it is installed, open MySQL Workbench connect to Schema assessment and login
 
-![alt text](Workbench.png "Workbench")
+![alt text](Workbench.PNG "Workbench")
 
 Run the Preparation Scripts found in the Docs Folder named "Preparattion_Script.sql"
 
-![alt text](WorkbenchTwo.png "WorkbenchTwo")
+![alt text](WorkbenchTwo.PNG "WorkbenchTwo")
 
 ### Run Project Using Visual Studio 2022
 
 Go back to Visual Studio, on the terminal, run the following commands:
 
-![alt text](Dotnet.png "Terminal")
+![alt text](Dotnet.PNG "Terminal")
 
 ```js
 dotnet restore
@@ -115,7 +115,7 @@ GET /students/{{id}}
     "stream": "1E"
 }
 ```
-![alt text](ValidateStudent.png "Terminal")
+![alt text](ValidateStudent.PNG "Terminal")
 
 #### Post Payment Notification
 
@@ -158,12 +158,12 @@ Location: {{host}}/payments/{{paymentRef}}
 }
 ```
 
-![alt text](PostPaymentNotification.png "Terminal")
+![alt text](PostPaymentNotification.PNG "Terminal")
 
 
 
 
-## Create Student
+## More Endpoints
 
 ### Create Student Request
 
