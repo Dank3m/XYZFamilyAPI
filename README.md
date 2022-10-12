@@ -348,9 +348,9 @@ GET /payments/{{paymentRef}}
 }
 ```
 
-## Update Student
+## Update Payment
 
-### Update Student Request
+### Update Payment Request
 
 ```js
 PUT /payments/{{paymentRef}}
@@ -368,7 +368,7 @@ PUT /payments/{{paymentRef}}
 }
 ```
 
-### Update Student Response
+### Update Payment Response
 
 ```js
 204 No Content
