@@ -9,7 +9,7 @@
 
 - [Deliverables](#deliverables)
   - [Simple Working API](#simple-working-api)
-  - [Payment and Student Repositories](#payment-student-repositories)
+  - [Payment and Student Repositories](#payment-and-student-repositories)
 
 - [Students](#students)
   - [Create Student](#create-student)
