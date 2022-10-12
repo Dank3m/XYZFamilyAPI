@@ -160,7 +160,10 @@ Location: {{host}}/payments/{{paymentRef}}
 
 ![alt text](PostPaymentNotification.PNG "Terminal")
 
+### Payment and Student Repositories
+You can find the complete ERD Diagram under XYZUniversity/XYZUniversity/Docs with the name "ERDDiagram.mwb". Open the file with MySQL Workbench.
 
+![alt text](Repos.PNG "Terminal")
 
 
 ## More Endpoints
