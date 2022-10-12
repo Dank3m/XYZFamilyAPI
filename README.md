@@ -75,7 +75,7 @@ Once it is installed, open MySQL Workbench connect to Schema assessment and logi
 
 ![alt text](Workbench.PNG "Workbench")
 
-Run the Preparation Scripts found in the Docs Folder named "Preparattion_Script.sql"
+Run the Preparation Scripts found in the Docs Folder named "Preparation_Script.sql"
 
 ![alt text](WorkbenchTwo.PNG "WorkbenchTwo")
 
