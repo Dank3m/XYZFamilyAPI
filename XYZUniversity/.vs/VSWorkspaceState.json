@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Repositories\\Payments",
+    "\\Repositories\\Students",
+    "\\Services\\Payments",
+    "\\Services\\Students",
+    "\\XYZUniversity.Test\\obj",
+    "\\XYZUniversity.Test\\obj\\Debug\\net6.0",
+    "\\XYZUniversity.Test\\obj\\Release",
+    "\\XYZUniversity.Test\\obj\\Release\\net6.0"
+  ],
+  "SelectedNode": "\\XYZUniversity.Test",
+  "PreviewInSolutionExplorer": false
+}

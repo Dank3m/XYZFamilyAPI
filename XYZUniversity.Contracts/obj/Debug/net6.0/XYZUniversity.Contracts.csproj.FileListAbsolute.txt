@@ -1,0 +1,36 @@
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.deps.json
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.csproj.AssemblyReference.cache
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.AssemblyInfoInputs.cache
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.AssemblyInfo.cs
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\refint\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\ref\XYZUniversity.Contracts.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.deps.json
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.csproj.AssemblyReference.cache
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.AssemblyInfoInputs.cache
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.AssemblyInfo.cs
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\refint\XYZUniversity.Contracts.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\ref\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.deps.json
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\bin\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.csproj.AssemblyReference.cache
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.AssemblyInfoInputs.cache
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.AssemblyInfo.cs
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\refint\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity.Contracts\obj\Debug\net6.0\ref\XYZUniversity.Contracts.dll

@@ -1,0 +1,117 @@
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.exe
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.deps.json
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.runtimeconfig.json
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.pdb
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.AssemblyReference.cache
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.AssemblyInfoInputs.cache
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.AssemblyInfo.cs
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\scopedcss\bundle\XYZUniversity.styles.css
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.CopyComplete
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\refint\XYZUniversity.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.pdb
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.genruntimeconfig.cache
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\obj\Debug\net6.0\ref\XYZUniversity.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Daniel Kimolo\source\repos\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\appsettings.json
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.exe
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.deps.json
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.runtimeconfig.json
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.pdb
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.AssemblyReference.cache
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.AssemblyInfoInputs.cache
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.AssemblyInfo.cs
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.CoreCompileInputs.cache
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\scopedcss\bundle\XYZUniversity.styles.css
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.CopyComplete
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\refint\XYZUniversity.dll
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.pdb
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.genruntimeconfig.cache
+C:\Users\kimolodm\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\ref\XYZUniversity.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\appsettings.json
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.exe
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.deps.json
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.runtimeconfig.json
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.pdb
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\ErrorOr.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.Contracts.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\bin\Debug\net6.0\XYZUniversity.Contracts.pdb
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.AssemblyReference.cache
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.AssemblyInfoInputs.cache
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.AssemblyInfo.cs
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\scopedcss\bundle\XYZUniversity.styles.css
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.csproj.CopyComplete
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\refint\XYZUniversity.dll
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.pdb
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\XYZUniversity.genruntimeconfig.cache
+C:\Users\Daniel Kimolo\OneDrive\Visual Studio\XYZUniversity\XYZUniversity\obj\Debug\net6.0\ref\XYZUniversity.dll
