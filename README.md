@@ -71,7 +71,11 @@ Install MySQL Workbench so that we can run the Preparation Scripts.
 
 Download Link: https://dev.mysql.com/downloads/workbench/
 
-Once it is installed, open MySQL Workbench connect to Schema assessment and login
+Once it is installed, open MySQL Workbench connect to Schema assessment and login.
+```js
+Username: root
+Password:
+```
 
 ![alt text](Workbench.PNG "Workbench")
 
